@@ -1,16 +1,21 @@
-## Hi there 👋
+# JOTHI PRAKASAM RAMESH
 
-<!--
-**jothiprakasam/jothiprakasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Engineering Student | Web Developer
 
-Here are some ideas to get you started:
+I am an enthusiastic engineering student with a passion for web development. My expertise lies in developing robust server-side websites, and I have a proven track record of success, having won both a hackathon and an ideathon. I thrive in collaborative environments and am always eager to learn and apply new technologies to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+- Web Development
+- Server-Side Development
+- Hackathon Winner
+- Ideathon Winner
+
+### Projects
+- Project 1 - Brief description of the project.
+- Project 2 - Brief description of the project.
+
+### Contact
+- LinkedIn
+- Email
