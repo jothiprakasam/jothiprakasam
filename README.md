@@ -12,6 +12,19 @@ I am an enthusiastic engineering student passionate about web development and se
 - **Ideathon Winner**: Creative thinker with practical implementation skills.  
 
 ---
+### **Certifications & Platforms**  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="100">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="100">
+  <img src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" alt="HackerRank" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="100">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="100">
+</div>
+
+---
 
 ### **Projects**
 #### **AccessFile**  
@@ -36,12 +49,4 @@ A message-posting platform with user authentication:
 
 ---
 
-### **Certifications & Platforms**  
-![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)  
-![Codeforces](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Codeforces_logo.svg/512px-Codeforces_logo.svg.png)  
-![HackerRank](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_logo.png/320px-Hackerrank_logo.png)  
-![Git](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)  
-![VSCode](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)  
-![CodeChef](https://upload.wikimedia.org/wikipedia/commons/7/7b/CodeChef_logo.png)  
-![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)  
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)  
+
