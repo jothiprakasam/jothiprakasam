@@ -1,26 +1,47 @@
-# JOTHI PRAKASAM RAMESH
+# JOTHI PRAKASAM RAMESH  
+### **Engineering Student | Web Developer**
 
-## Engineering Student | Web Developer
-
-I am an enthusiastic engineering student with a passion for web development. My expertise lies in developing robust server-side websites, and I have a proven track record of success, having won both a hackathon and an ideathon. I thrive in collaborative environments and am always eager to learn and apply new technologies to solve real-world problems.
+I am an enthusiastic engineering student passionate about web development and server-side technologies. With hands-on experience in creating robust applications, I have achieved notable milestones, including winning a **Hackathon** and an **Ideathon**. My problem-solving skills and ability to thrive in collaborative environments drive my commitment to learning and innovation.
 
 ---
 
-### Skills
-- Web Development
-- Server-Side Development
-- Hackathon Winner
-- Ideathon Winner
+### **Skills**
+- **Web Development**: Expertise in creating dynamic websites and backend systems.  
+- **Server-Side Development**: Proficient in Node.js, Express.js, MongoDB, and API integration.  
+- **Hackathon Winner**: Proven ability to deliver innovative solutions under time constraints.  
+- **Ideathon Winner**: Creative thinker with practical implementation skills.  
 
-### Projects
-- Accessfile - Document transfer project room based file upload using nodeJS ,
-   ExpressJS , MongoBB with  chat feature enabled
-- The candle - - Message posting Website - NodeJS and MongoDB
-    My project is simply based on message posting and which is stored in
-    MongoDB database and I used mongoose npm package and express
-    js which essential for this project. User registration details and login
-    credential verification .. these are my simple feature in my Website..
+---
 
-### Contact
-- LinkedIn - linkedin.com/in/jothiprakasam001
-- Email - prakashjothi148@gmail.com
+### **Projects**
+#### **AccessFile**  
+A secure document transfer platform with the following features:  
+- **Room-based file uploads**: Securely share files within user-specific rooms.  
+- **Real-time chat**: Integrated messaging for seamless collaboration.  
+- **Tech Stack**: Node.js, Express.js, MongoDB.  
+
+#### **The Candle**  
+A message-posting platform with user authentication:  
+- **Features**:  
+  - User registration and login with credential verification.  
+  - Mongoose for efficient database operations.  
+  - MongoDB for storing messages and user data.  
+- **Tech Stack**: Node.js, Express.js, MongoDB.  
+
+---
+
+### **Contact**
+- **LinkedIn**: [linkedin.com/in/jothiprakasam001](https://linkedin.com/in/jothiprakasam001)  
+- **Email**: prakashjothi148@gmail.com  
+
+---
+
+### **Certifications & Platforms**  
+![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)  
+![Codeforces](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Codeforces_logo.svg/512px-Codeforces_logo.svg.png)  
+![HackerRank](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_logo.png/320px-Hackerrank_logo.png)  
+![Git](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)  
+![VSCode](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)  
+![CodeChef](https://upload.wikimedia.org/wikipedia/commons/7/7b/CodeChef_logo.png)  
+![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)  
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)  
