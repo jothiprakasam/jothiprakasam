@@ -1,85 +1,39 @@
-# 🌟 JOTHI PRAKASAM RAMESH  
-### **Engineering Student | Web Developer**
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=I'm%20Jothi%20Prakasam%20R&fontSize=50)
 
-🚀 I am an enthusiastic engineering student passionate about **web development** and **server-side technologies**. With hands-on experience in creating robust applications, I have achieved notable milestones, including winning a **Hackathon** and an **Ideathon**. My problem-solving skills and ability to thrive in collaborative environments drive my commitment to learning and innovation.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+## About Me
+Hi, I’m Jothi Prakasam. I am a third-year Computer Science student with hands-on experience in cybersecurity and DevOps. I've started my college career with Web Development in NodeJS, ExpressJS. I write blogs on Medium and Reddit, focusing on technology and software.
 
----
+In cybersecurity, I identify system and Web vulnerabilities. In DevOps, I have practical skills in Docker, Kubernetes, and managing both VMs and containers for deployment and scaling.
 
-## 🎯 **Skills**  
-🔹 **Web Development**: Expertise in creating dynamic websites and backend systems.  
-🔹 **Server-Side Development**: Proficient in **Node.js**, **Express.js**, **MongoDB**, and **API integration**.  
-🔹 **Hackathon Winner**: Proven ability to deliver innovative solutions under time constraints.  
-🔹 **Ideathon Winner**: Creative thinker with practical implementation skills.  
+Beyond my technical skills, I won multiple events, participated in hackathons, and contributed to the IEEE Society.
 
----
+## Experience
 
-## 🏆 **Achievements**  
-- 🥇 **Hackathon Winner**: Developed a real-time collaborative application.  
-- 🎨 **Ideathon Winner**: Designed and prototyped a creative tech-based solution.  
+### DevOps Intern
+Accops System
+Jun 2025 - Aug 2025 · 3 months
+Remote
+Gained hands-on experience with Kubernetes and Docker APIs. Worked with VMware vSphere to manage Kubernetes server infrastructure. Deployed and managed Kubernetes KubeVirt environments to create and operate virtual machines within the cluster.
 
----
+## Cyber Security Intern 
+iTech India · Internship
+Mar 2025 - Aug 2025 · 6 months
+Chennai, Tamil Nadu, India · On-site
+Worked on static code analysis and penetration test on a website and bypassing WAF(Web application firewall) . captured vulnerabilities and analyzed Log data to find the traffic issues .
 
-## 📜 **Certifications & Platforms**  
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80">
-  </a>
-  <a href="https://codeforces.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="80">
-  </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" alt="HackerRank" width="80">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="80">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="80">
-  </a>
-  <a href="https://www.codechef.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="80">
-  </a>
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="80">
-  </a>
-  <a href="https://linkedin.com/in/jothiprakasam001" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="80">
-  </a>
-</div>
+[![Jothi Prakasam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jothiprakasam)](https://github.com/jothiprakasam)
 
----
-
-## 💻 **Projects**
-
-### **1. AccessFile**  
-A **secure document transfer platform** with the following features:  
-- 🔐 **Room-based file uploads**: Securely share files within user-specific rooms.  
-- 💬 **Real-time chat**: Integrated messaging for seamless collaboration.  
-- **Tech Stack**: `Node.js`, `Express.js`, `MongoDB`.  
-
----
-
-### **2. The Candle**  
-A **message-posting platform** with user authentication:  
-- **Features**:  
-  - 🛡️ User registration and login with credential verification.  
-  - ⚙️ Efficient database operations with `Mongoose`.  
-  - 📦 Data storage using `MongoDB`.  
-- **Tech Stack**: `Node.js`, `Express.js`, `MongoDB`.  
-
----
-
-## 📬 **Contact Me**  
-
-🔗 **LinkedIn**: [linkedin.com/in/jothiprakasam001](https://linkedin.com/in/jothiprakasam001)  
-📧 **Email**: [prakashjothi148@gmail.com](mailto:prakashjothi148@gmail.com)  
-
----
-
-## 📈 **GitHub Stats**  
-![Jothi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jothiprakasam&show_icons=true&theme=radical&hide=prs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jothiprakasam&layout=compact&theme=radical)  
-
----
-
-### 🌟 Let's build the future of technology together!  
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Thank%20You%20!&fontSize=50)
