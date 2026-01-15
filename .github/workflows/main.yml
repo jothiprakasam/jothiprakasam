@@ -1,19 +1,34 @@
 name: Metrics
 on:
-  # Schedule daily updates
+  # Schedule daily updates (at midnight)
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Allow manual run
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # Run on every push to main
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
           token: ${{ secrets.METRIC_TOKEN }}
+
+          # Options
+          user: jothiprakasam
+          template: classic
+          base: header, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          
+          # Plugins (Turn on what you want)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_habits: yes
+          plugin_habits_charts: yes
